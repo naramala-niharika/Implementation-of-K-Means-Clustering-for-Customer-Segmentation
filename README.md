@@ -75,7 +75,7 @@ plt.legend()
 ## Data Information:
 ![Output](https://github.com/naramala-niharika/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7b.png?raw=true)
 ## Plot-Elbow method:
-![Output](https://github.com/naramala-niharika/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7c.png?raw=true)
+![Output](?raw=true)
 ## Cluster:
 ![Output](https://github.com/naramala-niharika/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/7d.png?raw=true)
 
